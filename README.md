@@ -1,6 +1,6 @@
-#Echo Scribe
+# Echo Scribe
 
-###Make meetings less painful
+### Make meetings less painful
 an Alexa Skill and voice transcription helper
 
 ### Why?
@@ -12,11 +12,11 @@ This makes meetings clear, concise, actionable, and hopefully happen less.<br />
 - [See the web app live](http://echoscribe.herokuapp.com/) - may take a few moments to load on Heroku<br />
 - [Product Landing Page](https://rvhackathon2016.github.io/echo-scribe/) - end product goal :)
 
-###Hack it
+### Hack it
 - To run server locally: DEBUG=echoscribe_service:* npm start 
 - To deploy server navigate to root then: git subtree push --prefix server/echoscribe_service heroku master
 
-###Tech used
+### Tech used
 - [Amazon Echo](https://www.amazon.com/dp/B00X4WHP5E)
 - [Amazon Alexa](https://developer.amazon.com/alexa)
 - [AWS Lambda](https://aws.amazon.com/lambda/)
